@@ -1,0 +1,26 @@
+{
+  "name": "mvc-tech-blog-project",
+  "version": "1.0.0",
+  "description": "Developers will be able to publish their blogs and comment on other blog posts. More to come!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MsKryssy/MVC-Tech-Blog-Project.git"
+  },
+  "keywords": [],
+  "author": "Krystal Richardson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MsKryssy/MVC-Tech-Blog-Project/issues"
+  },
+  "homepage": "https://github.com/MsKryssy/MVC-Tech-Blog-Project#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mysql2": "^3.4.0",
+    "sequelize": "^6.32.1"
+  }
+}
